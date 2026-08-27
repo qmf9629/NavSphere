@@ -17,6 +17,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1787835576222",
+      "title": "自建服务",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
