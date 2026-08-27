@@ -6,7 +6,17 @@
       "icon": "Home",
       "description": "常用网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1787835645929_meep4ya40",
+          "title": "Sun-Panel",
+          "href": "https://sun.mfworld.top/",
+          "description": "",
+          "icon": "/assets/favicon_1787835637912.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
