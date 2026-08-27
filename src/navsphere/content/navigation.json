@@ -25,7 +25,17 @@
       "icon": "Box",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1787835718698_r3m9mp5ks",
+          "title": "Cloud Mail",
+          "href": "https://cloudmail.mfworld.top/",
+          "description": "Cloud Mail 是一个 Serverless 响应式邮箱服务，支持邮件发送，可部署到 Cloudflare 平台，降低服务器成本。Cloud Mail is a serverless responsive email service that supports email sending and can be deployed on Cloudflare to reduce server costs.",
+          "icon": "/assets/favicon_1787835681260.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
