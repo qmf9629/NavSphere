@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1787835536428",
+      "title": "主页",
+      "icon": "Home",
+      "description": "常用网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
