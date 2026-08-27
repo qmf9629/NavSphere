@@ -10,18 +10,18 @@
       "subCategories": []
     },
     {
-      "id": "1787835553269",
-      "title": "内网服务",
-      "icon": "LayoutGrid",
+      "id": "1787835576222",
+      "title": "自建服务",
+      "icon": "Box",
       "description": "",
       "enabled": true,
       "items": [],
       "subCategories": []
     },
     {
-      "id": "1787835576222",
-      "title": "自建服务",
-      "icon": "Box",
+      "id": "1787835553269",
+      "title": "内网服务",
+      "icon": "LayoutGrid",
       "description": "",
       "enabled": true,
       "items": [],
